@@ -1,3 +1,3 @@
 #!/bin/sh
 NUM=$(($Num1 + $Num2))
-echo $NUM
+echo "The sum is "+ $NUM
